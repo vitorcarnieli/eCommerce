@@ -1,0 +1,15 @@
+.positiveBackgroundColor{
+    background-color: #00A202;
+}
+
+.positivePriceColorText{
+    color: #00A202;
+}
+
+.negativePriceColorText{
+    color: #FF0000;
+}
+
+.legendProduct {
+    font-size: 11px;
+}
