@@ -1,3 +1,8 @@
+.publicityImage{
+    height: 200px;
+    width: 200px;
+}
+
 .positiveBackgroundColor{
     background-color: #00A202;
 }
